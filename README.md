@@ -7,4 +7,13 @@ setInterval(function(){
 }, 1000);
 ```
 
-Be careful because it's pretty hard to undo.
+---
+
+To unlike all the tweets you just liked, use the following:
+
+```
+setInterval(function(){
+  window.scrollTo(0,document.body.scrollHeight);
+  $('.ProfileTweet-actionButtonUndo.js-actionButton.js-actionFavorite:visible').click();
+}, 1000)
+```
