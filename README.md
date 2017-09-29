@@ -11,7 +11,9 @@ setInterval(function(){
 
 Be careful because it's pretty hard to undo. 
 
-To `unlike` all the tweets you just liked, use the following:
+___
+
+To **unlike** all the tweets you just liked, use the following:
 
 ```
 setInterval(function(){
