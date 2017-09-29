@@ -11,7 +11,7 @@ setInterval(function(){
 
 Be careful because it's pretty hard to undo. 
 
-___
+![like.gif](/like.gif)
 
 To **unlike** all the tweets you just liked, use the following:
 
